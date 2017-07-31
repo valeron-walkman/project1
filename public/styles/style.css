@@ -1,0 +1,418 @@
+/*Стили для header*/
+
+#header{
+    height: 70px;
+    border-radius: 10px;
+    margin-bottom: 2px;
+    background: url(../images/headback.jpg);
+}
+
+#search{
+    padding-top: 15px;
+}
+
+#btnsearch{
+    background: lightsalmon;
+}
+
+#inptsearch{
+    background: lightgoldenrodyellow;
+}
+
+.heading{
+    padding-top: 10px;
+    width: 300px;
+    height: 60px;
+}
+
+.heading:hover{
+    padding-top: 5px;
+    width: 310px;
+    height: 65px;
+}
+
+.feedback{
+    padding-top: 15px;
+    width: 40px;
+    height: 50px;
+}
+
+.feedback:hover{
+    padding-top: 10px;
+    width: 45px;
+    height: 55px;
+}
+
+.lk{
+    padding-top: 15px;
+    width: 40px;
+    height: 50px;
+}
+
+.lk:hover{
+    padding-top: 10px;
+    width: 45px;
+    height: 55px;
+}
+
+.phone{
+    padding-top: 15px;
+    width: 40px;
+    height: 50px;
+}
+
+.phone:hover{
+    padding-top: 10px;
+    width: 45px;
+    height: 55px;
+}
+
+.cart{
+    padding-top: 7px;
+    width: 60px;
+    height: 60px;
+}
+
+.cart:hover{
+    padding-top: 2px;
+    width: 65px;
+    height: 65px;
+}
+
+/*Стили для leftcol*/
+
+#leftCol{
+    float: left;
+    height: 100%;
+    width: 15%;
+
+}
+
+#leftCol>ul>a{
+    text-decoration: none;
+    color: black;
+}
+
+.menu{
+    background: url(../images/headback.jpg);
+}
+
+.menu:hover{
+    background: none;
+}
+
+/*Стили для основного блока страниц*/
+
+#primaryIndex{
+    height: 100%;
+    width: 69%;
+    float: left;
+}
+
+#netvpr{
+    padding-top: 100px;
+    height: 100%;
+    width: 69%;
+    float: left;
+}
+
+#primaryFeedback{
+    height: 100%;
+    width: 69%;
+    float: left;
+}
+
+#primaryCart{
+    background: none;
+    text-align: center;
+    border: solid lightgrey;
+    border-radius: 11px;
+    height: 100%;
+    width: 69%;
+    float: left;
+}
+
+#primaryLk{
+    height: 100%;
+    width: 69%;
+    float: left;
+}
+
+#primaryContacts{
+    height: 100%;
+    width: 69%;
+    float: left;
+    /*text-align: center;*/
+}
+
+#primaryTehn{
+    height: 100%;
+    width: 69%;
+    float: left;
+}
+
+#primaryFeedback{
+    height: 100%;
+    width: 69%;
+    float: left;
+}
+
+#primaryFGoods{
+    height: 100%;
+    width: 69%;
+    float: left;
+}
+
+/*Стили для главного блока главной страницы*/
+
+.privet{
+    text-align: center;
+    font-family: Arial;
+    font-size: 50px;
+}
+
+.opisan{
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+/*Стили для rightcol*/
+
+#rightCol{
+    float: right;
+    height: 100%;
+    width: 16%;
+}
+
+
+/*Стили для Footer*/
+
+#footer{
+    width: 100%;
+    height: 70px;
+    padding: 1%;
+    float: left;
+    margin-top: 2px;
+    border-radius: 10px;
+    background: url(../images/headback.jpg);
+}
+
+#face{
+    height: 50px;
+    margin-bottom: 19px;
+}
+
+.rrr{
+    padding-top: 1px;
+}
+
+.divl{
+    /*position: relative;*/
+    /*left: 0px;*/
+    /*top: 0px;*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+    border-radius: 11px;
+    border: solid lightgrey;
+}
+
+.divr{
+    /*position: static;*/
+    /*left: 0px;*/
+    /*top: 0px;*/
+    width: 100%;
+    height: 100%;
+    border-radius: 11px;
+    border: solid lightgrey;
+}
+
+.i{
+    float: right;
+}
+
+.left{
+    /*float: right;*/
+}
+
+/*Стиль для страницы товаров одного типа(бренда,марки и т.д.)*/
+
+#primaryFGoods{
+
+}
+
+/*Стиль для описания шапки товара*/
+
+.HopGoog{
+    text-align: center;
+    font-family: Arial;
+    font-size: 40px;
+}
+
+/*Стиль для описания товара*/
+
+.optiGoods{
+    float: left;
+    height: 100%;
+    width: 69%;
+}
+
+.opGood{
+
+}
+
+/*Стиль для оптимизации изображения товара*/
+
+.picGood{
+    float: left;
+    height: 300px;
+    width: 300px;
+}
+
+#div1{
+    height: 100%;
+    width: 69%;
+    float: left;
+}
+#div2{
+    height: 100%;
+    width: 69%;
+    float: left;
+}
+
+#goods1,#goods2,#goods3,#goods4,#goods5,#goods6
+{
+    height: 100%;
+    width: 69%;
+    float: left;
+}
+
+#div1,#div2,#div3,#div4,#div5,#div6,#div11,#div12,#div13,#div14,#div15,#div16,#div21,#div22,#div23,#div24,#div25,#div26,#div31,#div32,#div33,#div34,#div35,#div36,#div41,#div42,#div43,#div44,#div45,#div46,#div51,#div52,#div53,#div54,#div55,#div56,#div61,#div62,#div63,#div64,#div65,#div66
+{
+    height: 60%;
+    width: 33%;
+    float: left;
+    color: black;
+    text-align: center;
+    border: solid lightgray;
+    border-radius: 11px;
+    background: url(../images/headback.jpg);
+}
+
+#div1:hover,#div2:hover,#div3:hover,#div4:hover,#div5:hover,#div6:hover,#div11:hover,#div12:hover,#div13:hover,#div14:hover,#div15:hover,#div16:hover,#div21:hover,#div22:hover,#div23:hover,#div24:hover,#div25:hover,#div26:hover,#div31:hover,#div32:hover,#div33:hover,#div34:hover,#div35:hover,#div36:hover,#div41:hover,#div42:hover,#div43:hover,#div44:hover,#div45:hover,#div46:hover,#div51:hover,#div52:hover,#div53:hover,#div54:hover,#div55:hover,#div56:hover,#div61:hover,#div62:hover,#div63:hover,#div64:hover,#div65:hover,#div66:hover
+{
+    background: none;
+}
+
+#tov1,#tov2,#tov3,#tov4,#tov5,#tov6,#tov11,#tov12,#tov13,#tov14,#tov15,#tov16,#tov21,#tov22,#tov23,#tov24,#tov25,#tov26,#tov31,#tov32,#tov33,#tov34,#tov35,#tov36,#tov41,#tov42,#tov43,#tov44,#tov45,#tov46,#tov51,#tov52,#tov53,#tov54,#tov55,#tov56,#tov61,#tov62,#tov63,#tov64,#tov65,#tov66
+{
+    height: 100%;
+    width: 69%;
+    float: left;
+    color: black;
+    text-align: center;
+    border: solid lightgray;
+    border-radius: 11px;
+}
+
+.disc{
+    text-align: justify;
+}
+
+.price{
+    text-align: center;
+}
+
+.add-to-card{
+    background: url("../images/headback.jpg");
+    text-align: center;
+    color: black;
+}
+
+.add-to-card:hover{
+    background: none;
+}
+
+.cartbtn:hover{
+    background: none;
+    color: black;
+}
+
+.delete{
+    text-align: center;
+    background-color: orange;
+    border-radius: 11px;
+    height: 25px;
+    width: 25px;
+}
+
+.minus{
+    text-align: center;
+    background-color: orange;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 20px;
+    width: 25px;
+}
+
+.plus{
+    text-align: center;
+    background-color: orange;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 20px;
+    width: 25px;
+}
+
+/*Для слайд-шоу*/
+
+  #slides {
+      position: relative;
+      height: 300px;
+      padding: 0px;
+      margin: 0px;
+      list-style-type: none;
+  }
+  .slide {
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      width: 100%;
+      height: 100%;
+      opacity: 0;
+      z-index: 1;
+      -webkit-transition: opacity 1s;
+      -moz-transition: opacity 1s;
+      -o-transition: opacity 1s;
+      transition: opacity 1s;
+  }
+
+  .showing {
+      opacity: 1;
+      z-index: 2;
+  }
+
+.slide {
+    border-radius: 11px;
+    border: solid white;
+    padding: 40px;
+    box-sizing: border-box;
+    background: #333;
+    color: #fff;
+}
+
+  .slide:nth-of-type(1) {
+      background-image: url("../../images/apples.jpg");
+  }
+  .slide:nth-of-type(2) {
+      background-image: url("../../images/meizus.jpg");
+  }
+  .slide:nth-of-type(3) {
+      background-image: url("../../images/nokias.jpg");
+  }
+  .slide:nth-of-type(4) {
+      background-image: url("../../images/samsungs.jpg");
+  }
+  .slide:nth-of-type(5) {
+      background-image: url("../../images/sonys.jpg");
+  }
